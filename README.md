@@ -1,4 +1,4 @@
-# Shack_Labs_Assignments
+# Shack_Labs_Assignment 1
 
 Part 1: Predict the price of a house
 
